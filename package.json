@@ -1,0 +1,21 @@
+{
+  "name": "superfly-css-component-list",
+  "version": "0.0.0",
+  "description": "List component",
+  "main": "src/main/css/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superfly-css/superfly-css-component-list/"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "component",
+    "superfly-css"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT"
+}
